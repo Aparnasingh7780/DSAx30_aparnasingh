@@ -8,5 +8,5 @@ def print_pattern(N):
         print(first_half + second_half)
 
 # Example usage:
-N = int(input("Enter N: "))
+N = int(input("Enter N=6: "))
 print_pattern(N)
